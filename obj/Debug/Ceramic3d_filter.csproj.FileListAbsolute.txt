@@ -1,0 +1,9 @@
+C:\Users\Walking Cake\Documents\Ceramic3d\Filter\Ceramic3d_filter\bin\Debug\Ceramic3d_filter.exe
+C:\Users\Walking Cake\Documents\Ceramic3d\Filter\Ceramic3d_filter\bin\Debug\Ceramic3d_filter.pdb
+C:\Users\Walking Cake\Documents\Ceramic3d\Filter\Ceramic3d_filter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Walking Cake\Documents\Ceramic3d\Filter\Ceramic3d_filter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Walking Cake\Documents\Ceramic3d\Filter\Ceramic3d_filter\obj\Debug\Ceramic3d_filter.csprojAssemblyReference.cache
+C:\Users\Walking Cake\Documents\Ceramic3d\Filter\Ceramic3d_filter\obj\Debug\Ceramic3d_filter.csproj.CoreCompileInputs.cache
+C:\Users\Walking Cake\Documents\Ceramic3d\Filter\Ceramic3d_filter\obj\Debug\Ceramic3d_filter.csproj.CopyComplete
+C:\Users\Walking Cake\Documents\Ceramic3d\Filter\Ceramic3d_filter\obj\Debug\Ceramic3d_filter.exe
+C:\Users\Walking Cake\Documents\Ceramic3d\Filter\Ceramic3d_filter\obj\Debug\Ceramic3d_filter.pdb
